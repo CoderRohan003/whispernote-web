@@ -1,7 +1,4 @@
 
-# README.md
-
-```md
 <p align="center">
   <img src="https://dummyimage.com/1200x300/1e1e2e/ffffff&text=WhisperNote+%E2%80%93+Your+Voice,+Remembered" alt="WhisperNote Banner"/>
 </p>
@@ -106,8 +103,6 @@ whispernote-web/
 ├── .env.local
 ├── package.json
 └── README.md
-
-````
 
 ---
 
