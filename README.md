@@ -104,6 +104,7 @@ whispernote-web/
 ├── package.json
 └── README.md
 
+```
 ---
 
 # 🚀 Getting Started (Web Version)
