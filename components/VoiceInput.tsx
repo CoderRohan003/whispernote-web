@@ -130,7 +130,7 @@ export default function VoiceInput({ onReminderAdded }: { onReminderAdded: () =>
                 )}
             </button>
 
-            <div className="min-h-[20px] w-full text-center">
+            <div className="min-h-5 w-full text-center">
                 {transcript && (
                     <p className="text-lg text-white font-medium animate-pulse">"{transcript}"</p>
                 )}
