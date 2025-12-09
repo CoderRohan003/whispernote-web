@@ -267,7 +267,7 @@ export default function Home() {
 
       <div className="max-w-xl mx-auto space-y-8">
         <header className="flex justify-between items-center">
-          <h1 className="text-2xl font-bold text-purple-400 bg-clip-text text-transparent">
+          <h1 className="text-2xl font-bold text-purple-400 bg-clip-text">
             WhisperNote
           </h1>
           {/* Display User ID for sync assurance */}
